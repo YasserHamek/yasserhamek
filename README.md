@@ -48,10 +48,5 @@ deliver solutions that make end user satisfied. I enjoy working in teams that fo
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-white?logo=Visual%20Studio%20Code&logoColor=blue)
 ![Postman](https://img.shields.io/badge/-Postman-white?logo=Postman)
 
-<p align='center'>
-[![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/yasserhamek)
-[![Linkedin Badge](https://img.shields.io/badge/-yasserhamek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasser-hamek/)](https://www.linkedin.com/in/yasser-hamek/)
-</p>
-
-[![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/yasserhamek)
+[![GitHub followers](https://img.shields.io/github/followers/yasserhamek?style=social)](https://www.github.com/yasserhamek)
 [![Linkedin Badge](https://img.shields.io/badge/-yasserhamek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasser-hamek/)](https://www.linkedin.com/in/yasser-hamek/)
