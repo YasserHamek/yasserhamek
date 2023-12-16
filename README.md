@@ -1,5 +1,5 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Yasser Hamek</strong></samp></h2>
-<h3 align='center'><strong><a href="https://yasserhamek.github.io/portfolio/" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://yasserhamek.github.io/portfolio/" target="_blank">Portfolio 🌐</a></strong></h3>
 <p align='center'>Full-Stack Web Developer Engineer</p>
 
 <p align='left'> With a solid background as an engineer, and a great passion for learning, I have built a diverse skillets as a software engineer. I have experience working with large and small software projects across all software development phases from conception, implementation, and testing with a focus on Web Development using modern technologies such as Java, Spring, NodeJs, React, Angular amongst many others.
@@ -52,3 +52,6 @@ deliver solutions that make end user satisfied. I enjoy working in teams that fo
 [![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/yasserhamek)
 [![Linkedin Badge](https://img.shields.io/badge/-yasserhamek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasser-hamek/)](https://www.linkedin.com/in/yasser-hamek/)
 </p>
+
+[![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/yasserhamek)
+[![Linkedin Badge](https://img.shields.io/badge/-yasserhamek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasser-hamek/)](https://www.linkedin.com/in/yasser-hamek/)
